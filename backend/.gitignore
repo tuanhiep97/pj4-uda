@@ -3,3 +3,4 @@ jspm_packages
 .serverless
 .webpack
 .dynamodb
+package-lock.json
